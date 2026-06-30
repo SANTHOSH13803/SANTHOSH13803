@@ -1,11 +1,28 @@
-Hi there 👋, I'm Santhosh Veluru
+<h1 align="center">
+  Hi there 👋 I'm <span style="color:#58A6FF;">Santhosh Veluru</span>
+</h1>
 
-<h3 align="center">
-Frontend Developer • React Enthusiast • Lifelong Learner
-</h3><p align="center">
-Building fast, scalable and user-friendly web applications with modern JavaScript technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer" />
 </p>
 
+<p align="center">
+Building scalable, performant and user-friendly web applications using modern web technologies.
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/santhosh-veluru">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:santhosh13803@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
 ---
 
 🚀 About Me
