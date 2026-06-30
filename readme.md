@@ -1,6 +1,10 @@
 <h1 align="center">
-👋 Hello, I'm <b>Santhosh Veluru</b>
+Santhosh Veluru
 </h1>
+
+<h3 align="center">
+Building Modern Web Experiences
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer" />
