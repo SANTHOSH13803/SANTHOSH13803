@@ -4,7 +4,9 @@ Hi there 👋, I'm Santhosh Veluru
 Frontend Developer • React Enthusiast • Lifelong Learner
 </h3><p align="center">
 Building fast, scalable and user-friendly web applications with modern JavaScript technologies.
-</p>---
+</p>
+
+---
 
 🚀 About Me
 
@@ -37,7 +39,9 @@ Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>---
+</p>
+
+---
 
 📚 Currently Learning
 
@@ -83,13 +87,17 @@ A YouTube-inspired video streaming application.
 
 Modern responsive landing page built with React.
 
+---
+
 🌐 Connect With Me
 
 <p><a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a><a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a></p>---
+</a></p>
+
+---
 
 
 <p align="center">⭐ Thanks for visiting my profile! ⭐
