@@ -20,7 +20,7 @@ Building scalable, performant and user-friendly web applications using modern we
 <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=SANTHOSH13803&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
 ---
