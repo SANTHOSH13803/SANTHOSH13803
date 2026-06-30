@@ -91,9 +91,9 @@ Modern responsive landing page built with React.
 
 🌐 Connect With Me
 
-<p><a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<p><a href="https://www.linkedin.com/in/santhosh-veluru">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a><a href="mailto:YOUR_EMAIL">
+</a><a href="mailto:santhosh13803@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a></p>
 
