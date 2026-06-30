@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -22,10 +22,6 @@ Building scalable, performant and user-friendly web applications using modern we
 
 <img src="https://komarev.com/ghpvc/?username=SANTHOSH13803&label=Profile+Views&color=0e75b6&style=flat"/>
 
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer" />
 </p>
 
 ---
