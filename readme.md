@@ -54,7 +54,7 @@ Languages
 </p>Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,typescript" />
 </p>Backend
 
 <p>
