@@ -45,6 +45,7 @@ Building scalable, performant and user-friendly web applications using modern we
 ---
 
 💻 Tech Stack
+-
 
 Languages
 
@@ -67,6 +68,7 @@ Languages
 ---
 
 📚 Currently Learning
+-
 
 - Advanced React Patterns
 - Next.js
@@ -79,6 +81,7 @@ Languages
 ---
 
 📌 Featured Projects
+-
 
 🚀 DevTinder
 
