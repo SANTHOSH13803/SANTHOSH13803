@@ -88,7 +88,7 @@ Languages
   </b>
 </h4>
 
-A developer matching platform inspired by Tinder.
+> A developer matching platform inspired by Tinder.
 
 Tech Stack
 
@@ -106,7 +106,7 @@ Tech Stack
   </b>
 </h4>
 
-__A YouTube-inspired video streaming application.__
+> A YouTube-inspired video streaming application.
 
 - React
 - REST API
