@@ -129,9 +129,4 @@ Tech Stack
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a></p>
 
----
 
-
-<p align="center">⭐ Thanks for visiting my profile! ⭐
-
-</p>
