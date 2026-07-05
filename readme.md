@@ -117,7 +117,7 @@ Tech Stack
 
 💼 GPT-3 Landing Page
 
-Modern responsive landing page built with React.
+> Modern responsive landing page built with React.
 
 ---
 
