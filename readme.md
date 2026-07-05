@@ -83,7 +83,7 @@ Languages
 📌 Featured Projects
 -
 
-🚀 DevTinder
+🚀 **DevTinder**
 
 A developer matching platform inspired by Tinder.
 
@@ -98,7 +98,7 @@ Tech Stack
 
 ---
 
-🎬 NxtTube
+🎬 **NxtTube**
 
 A YouTube-inspired video streaming application.
 
