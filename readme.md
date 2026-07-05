@@ -30,7 +30,8 @@ Building scalable, performant and user-friendly web applications using modern we
 
 ---
 
-🚀 About Me
+⚡ About Me
+-
 
 - 💼 Frontend Developer with 3+ years of experience
 - ⚛️ Specialized in React.js & TypeScript
