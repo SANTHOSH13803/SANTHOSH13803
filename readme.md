@@ -82,8 +82,9 @@ Languages
 
 📌 Featured Projects
 -
-
+<h4>
 🚀 **DevTinder**
+</h4>
 
 A developer matching platform inspired by Tinder.
 
@@ -97,8 +98,9 @@ Tech Stack
 - MongoDB
 
 ---
-
+<h4>
 🎬 **NxtTube**
+</h4>
 
 A YouTube-inspired video streaming application.
 
