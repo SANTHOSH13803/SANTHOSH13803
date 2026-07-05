@@ -44,7 +44,7 @@ Building scalable, performant and user-friendly web applications using modern we
 
 ---
 
-💻 Tech Stack
+🛠️ Tech Stack
 -
 
 Languages
