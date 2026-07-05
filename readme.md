@@ -106,7 +106,7 @@ Tech Stack
   </b>
 </h4>
 
-A YouTube-inspired video streaming application.
+__A YouTube-inspired video streaming application.__
 
 - React
 - REST API
