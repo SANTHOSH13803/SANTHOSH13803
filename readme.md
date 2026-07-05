@@ -3,11 +3,11 @@ Hey, I'm Santhosh Veluru
 </h1>
 
 <h3 align="center">
-Building Modern Web Experiences
+Full-stack Developer building real-time, interactive experiences.
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=700&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer" />
 </p>
 
 <p align="center">
